@@ -1,0 +1,1 @@
+$('.title').html('mi titulo');
